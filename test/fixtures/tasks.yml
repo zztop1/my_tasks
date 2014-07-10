@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  todo: MyText
+  due_date: 2014-07-10 22:41:32
+
+two:
+  todo: MyText
+  due_date: 2014-07-10 22:41:32
